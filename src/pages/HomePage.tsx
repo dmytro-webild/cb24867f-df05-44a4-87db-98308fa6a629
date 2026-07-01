@@ -27,16 +27,16 @@ export default function HomePage() {
             primaryButton={{ text: "Start Project", href: "#contact" }}
             secondaryButton={{ text: "View Work", href: "#work" }}
             leftItems={[
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=1" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=2" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=3" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=4" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=1" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=2" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=3" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=4" },
             ]}
             rightItems={[
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=5" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=6" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=7" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=8" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=5" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=6" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=7" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=8" },
             ]}
           />
         </div>
