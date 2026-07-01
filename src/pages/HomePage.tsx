@@ -33,10 +33,10 @@ export default function HomePage() {
               { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=4" },
             ]}
             rightItems={[
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=5" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=6" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=7" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897581401-6ksjynw9.png?_wi=8" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897661738-s65yo90k.png?_wi=5" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897661738-s65yo90k.png?_wi=6" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897661738-s65yo90k.png?_wi=7" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897661738-s65yo90k.png?_wi=8" },
             ]}
           />
         </div>
