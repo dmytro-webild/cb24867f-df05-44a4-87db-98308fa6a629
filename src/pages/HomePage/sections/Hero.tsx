@@ -10,7 +10,7 @@ export default function HeroSection(): React.JSX.Element {
               <HeroSplitVerticalMarqueeTall
                 textAnimation="fade-blur"
                 tag="Award-Winning Agency"
-                title="We Build Digital Experiences"
+                title="رَوّق"
                 description="Transform your brand with cutting-edge web design and development. We craft stunning websites that convert visitors into customers."
                 primaryButton={{ text: "Start Project", href: "#contact" }}
                 secondaryButton={{ text: "View Work", href: "#work" }}
