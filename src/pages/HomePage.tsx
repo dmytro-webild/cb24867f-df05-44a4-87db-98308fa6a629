@@ -27,16 +27,16 @@ export default function HomePage() {
             primaryButton={{ text: "Start Project", href: "#contact" }}
             secondaryButton={{ text: "View Work", href: "#work" }}
             leftItems={[
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=1" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=2" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=3" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=4" },
             ]}
             rightItems={[
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png" },
-              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=5" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=6" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=7" },
+              { imageSrc: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782897341300-5vi48pfs.png?_wi=8" },
             ]}
           />
         </div>
@@ -142,9 +142,9 @@ export default function HomePage() {
             rating={5}
             author="— Maria Santos, CEO at Luxuria Travel"
             avatars={[
-              { name: "Maria Santos", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-1.webp" },
-              { name: "James Chen", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-2.webp" },
-              { name: "Sofia Reyes", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-3.webp" },
+              { name: "Maria Santos", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-1.webp?_wi=1" },
+              { name: "James Chen", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-2.webp?_wi=1" },
+              { name: "Sofia Reyes", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-3.webp?_wi=1" },
               { name: "David Kim", imageSrc: "https://randomuser.me/api/portraits/men/32.jpg" },
               { name: "Emma Wilson", imageSrc: "https://randomuser.me/api/portraits/women/44.jpg" },
               { name: "Alex Thompson", imageSrc: "https://randomuser.me/api/portraits/men/67.jpg" },
@@ -203,17 +203,17 @@ export default function HomePage() {
               {
                 name: "Sarah Miller",
                 role: "Lead Developer",
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-1.webp",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-1.webp?_wi=2",
               },
               {
                 name: "Valentina Reyes",
                 role: "Creative Director",
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-2.webp",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-2.webp?_wi=2",
               },
               {
                 name: "Carlos Mendoza",
                 role: "UX Designer",
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-3.webp",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/templates/web-agency-2/team-3.webp?_wi=2",
               },
             ]}
           />
