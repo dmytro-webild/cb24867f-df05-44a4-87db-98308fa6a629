@@ -11,7 +11,7 @@ export default function HeroSection(): React.JSX.Element {
                 textAnimation="fade-blur"
                 tag="Award-Winning Agency"
                 title="رَوّق"
-                description="Transform your brand with cutting-edge web design and development. We craft stunning websites that convert visitors into customers."
+                description="نؤمن أن الراحة ليست رفاهية، بل جزء أساسي من يوم متوازن. لذلك صُمم رَوِّق ليكون رفيقك اليومي في العمل، والدراسة، والتنقل، وأوقات الاسترخاء، بتجربة مريحة تجمع بين البساطة والتقنية الحديثة لتمنحك شعورًا أكبر بالراحة أينما كنت"
                 primaryButton={{ text: "Start Project", href: "#contact" }}
                 secondaryButton={{ text: "View Work", href: "#work" }}
                 leftItems={[
