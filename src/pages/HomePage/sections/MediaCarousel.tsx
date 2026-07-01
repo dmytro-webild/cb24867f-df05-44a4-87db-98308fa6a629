@@ -17,7 +17,7 @@ export default function MediaCarouselSection() {
       <div className="w-content-width mx-auto">
         <div className="mb-12 text-center">
           <TextAnimation variant="fade-blur" tag="h2" className="text-4xl md:text-5xl font-bold text-foreground mb-4" text="مصمم ليكون جزءًا من يومك" gradientText={false} />
-          <TextAnimation variant="fade-blur" tag="p" className="text-lg text-accent" text="Take a closer look at our product." gradientText={false} />
+          <TextAnimation variant="fade-blur" tag="p" className="text-lg text-accent" text="سواءًا كنت تلعب او تقرا او تسوق او مسترخي" gradientText={false} />
         </div>
         <ScrollReveal variant="slide-up">
           <Carousel className="w-full">
