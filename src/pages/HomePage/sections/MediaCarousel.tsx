@@ -16,7 +16,7 @@ export default function MediaCarouselSection() {
     <section id="media-carousel" data-webild-section="media-carousel" className="relative w-full py-24 bg-background">
       <div className="w-content-width mx-auto">
         <div className="mb-12 text-center">
-          <TextAnimation variant="fade-blur" tag="h2" className="text-4xl md:text-5xl font-bold text-foreground mb-4" text="Product Gallery" gradientText={false} />
+          <TextAnimation variant="fade-blur" tag="h2" className="text-4xl md:text-5xl font-bold text-foreground mb-4" text="مصمم ليكون جزءًا من يومك" gradientText={false} />
           <TextAnimation variant="fade-blur" tag="p" className="text-lg text-accent" text="Take a closer look at our product." gradientText={false} />
         </div>
         <ScrollReveal variant="slide-up">
