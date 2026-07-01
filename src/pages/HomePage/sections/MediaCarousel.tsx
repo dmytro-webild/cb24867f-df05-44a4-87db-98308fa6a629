@@ -8,7 +8,8 @@ export default function MediaCarouselSection() {
   const images = [
     "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782898092527-2qlsj3la.png",
     "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782898092529-kmn0xb0w.png",
-    "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782898092530-w252bepw.png"
+    "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782898092530-w252bepw.png",
+    "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782899518735-tk0yrtfa.png"
   ];
 
   return (
