@@ -17,17 +17,17 @@ export default function ServicesSection(): React.JSX.Element {
                   {
                     title: "Web Development",
                     description: "Custom-built websites that are fast, responsive, and designed to convert.",
-                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782902233173-n8958vka.png",
+                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782903703652-iz2msjpg.png",
                   },
                   {
                     title: "SEO Optimization",
                     description: "We optimize your website to rank higher on search engines and drive organic traffic.",
-                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782901900915-br5zx734.png",
+                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782903703653-1jqzp5px.png",
                   },
                   {
                     title: "Branding",
                     description: "Build a memorable brand identity that resonates with your audience.",
-                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782901900916-cu84sd9r.png",
+                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782903703654-bv6ksmeq.png",
                   },
                 ]}
               />
