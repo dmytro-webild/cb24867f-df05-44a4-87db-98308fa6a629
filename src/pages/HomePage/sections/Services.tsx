@@ -17,7 +17,7 @@ export default function ServicesSection(): React.JSX.Element {
                   {
                     title: "Web Development",
                     description: "Custom-built websites that are fast, responsive, and designed to convert.",
-                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782901900913-q8rxwg0e.png",
+                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782902233173-n8958vka.png",
                   },
                   {
                     title: "SEO Optimization",
