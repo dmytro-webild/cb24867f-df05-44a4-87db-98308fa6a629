@@ -17,27 +17,17 @@ export default function ServicesSection(): React.JSX.Element {
                   {
                     title: "Web Development",
                     description: "Custom-built websites that are fast, responsive, and designed to convert.",
-                    bentoComponent: "checklist-timeline",
-                    heading: "Project Timeline",
-                    subheading: "Week 1-2",
-                    checklistItems: [
-                      { label: "Discovery & Strategy", detail: "Day 1-3" },
-                      { label: "Design & Prototype", detail: "Day 4-7" },
-                      { label: "Development & Launch", detail: "Day 8-14" },
-                    ],
-                    completedLabel: "Live",
+                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782901900913-q8rxwg0e.png",
                   },
                   {
                     title: "SEO Optimization",
                     description: "We optimize your website to rank higher on search engines and drive organic traffic.",
-                    bentoComponent: "animated-bar-chart",
+                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782901900915-br5zx734.png",
                   },
                   {
                     title: "Branding",
                     description: "Build a memorable brand identity that resonates with your audience.",
-                    bentoComponent: "orbiting-icons",
-                    centerIcon: Sparkles,
-                    orbitIcons: [Palette, Layers, PenTool, Code],
+                    image: "https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782901900916-cu84sd9r.png",
                   },
                 ]}
               />
