@@ -11,8 +11,8 @@ export default function ServicesSection(): React.JSX.Element {
               <FeaturesBento
                 textAnimation="fade-blur"
                 tag="Services"
-                title="Services That Drive Results"
-                description="We offer a full suite of digital services to help your brand stand out online."
+                title="وش يساعدك فيه رَوّق؟"
+                description="فيه كثير علامات اجهاد و إرهاق الي تعودنا اننا نتجاهلها حتى صارت جزء مننا"
                 features={[
                   {
                     title: "Web Development",
