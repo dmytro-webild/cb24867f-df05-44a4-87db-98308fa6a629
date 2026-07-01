@@ -60,7 +60,7 @@ export default function BentoFeaturesSection() {
             <div className="card h-full rounded-lg overflow-hidden flex flex-col">
               <div className="h-48 relative">
                 <ImageOrVideo 
-                  imageSrc="https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782904038234-evwt682d.png" 
+                  imageSrc="https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782904038234-evwt682d.png?_wi=1" 
                   className="absolute inset-0 w-full h-full object-cover"
                 />
               </div>
@@ -79,7 +79,7 @@ export default function BentoFeaturesSection() {
               </div>
               <div className="flex-1 min-h-[300px] relative">
                 <ImageOrVideo 
-                  imageSrc="https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782904038234-evwt682d.png" 
+                  imageSrc="https://storage.googleapis.com/webild/users/user_3FtXGZmo2q34ph3RhCNPCt0XPUG/uploaded-1782904038234-evwt682d.png?_wi=2" 
                   className="absolute inset-0 w-full h-full object-cover"
                 />
               </div>
