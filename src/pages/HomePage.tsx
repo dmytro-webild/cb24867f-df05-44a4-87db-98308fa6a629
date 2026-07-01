@@ -17,36 +17,31 @@ import TeamSection from './HomePage/sections/Team';
 import FaqSection from './HomePage/sections/Faq';
 import ContactSection from './HomePage/sections/Contact';
 
-
 import MediaCarouselSection from './HomePage/sections/MediaCarousel';
-import BentoFeaturesSection from './HomePage/sections/BentoFeatures';export default function HomePage(): React.JSX.Element {
+
+export default function HomePage(): React.JSX.Element {
   return (
-<StyleProvider siteBackground="aurora" heroBackground="lightRaysCorner" buttonVariant="stagger">
-        <SiteBackgroundSlot />
+    <StyleProvider siteBackground="aurora" heroBackground="lightRaysCorner" buttonVariant="stagger">
+      <SiteBackgroundSlot />
 
-        
-
-        <HeroSection />
+      <HeroSection />
       <MediaCarouselSection />
-      <BentoFeaturesSection />
 
-        <ServicesSection />
+      <ServicesSection />
 
-        <WorkSection />
+      <WorkSection />
 
-        <PromiseSection />
+      <PromiseSection />
 
-        <TestimonialsSection />
+      <TestimonialsSection />
 
-        <MetricsSection />
+      <MetricsSection />
 
-        <TeamSection />
+      <TeamSection />
 
-        <FaqSection />
+      <FaqSection />
 
-        <ContactSection />
-
-        
-      </StyleProvider>
+      <ContactSection />
+    </StyleProvider>
   );
 }
